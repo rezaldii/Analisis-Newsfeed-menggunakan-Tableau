@@ -33,7 +33,7 @@ Projek ini bertujuan untuk menganalisis aktivitas dan keterlibatan pengguna dala
 
 ## Cara Menggunakan
 1. **Akses Dashboard**  
-   - Buka file Tableau (.twb) yang disediakan atau akses dashboard publik melalui [tautan Tableau Public](https://public.tableau.com/shared/83PJ6H66N?:display_count=n&:origin=viz_share_linkhttps://public.tableau.com/shared/83PJ6H66N?:display_count=n&:origin=viz_share_link).
+   - Buka file Tableau (.twb) yang disediakan atau akses dashboard publik melalui [tautan Tableau Public](https://public.tableau.com/views/newsfeed_analysis_17395410313520/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
    - Pastikan Tableau Public terinstal di perangkat Anda.
 
 2. **Interaksi dengan Dashboard**  
